@@ -7,8 +7,3 @@
 
 # How to use
 check the scripts folder
-
-
-# To Do
-- Change NFT URI to our Turkolog website
-- deploy on avalanche mainnet after testing with front end
